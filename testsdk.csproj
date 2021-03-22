@@ -4,7 +4,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
 
-    <TargetFramework>netcoreapp6</TargetFramework>
+    <TargetFramework>net46</TargetFramework>
     <UseWPF>true</UseWPF>
 
 
