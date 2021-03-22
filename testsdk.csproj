@@ -4,7 +4,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
 
-    <TargetFrameworks>net3.5;netstandard2.1</TargetFrameworks>
+    <TargetFramework>net35</TargetFramework>
     <UseWPF>true</UseWPF>
 
 
