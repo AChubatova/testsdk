@@ -4,8 +4,8 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
 
-    <TargetFramework>net11</TargetFramework>
-    <UseWPF>true</UseWPF>
+    <TargetFramework>net35</TargetFramework>
+
 
 
     
